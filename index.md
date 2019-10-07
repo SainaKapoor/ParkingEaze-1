@@ -1,8 +1,8 @@
 <html>
   <head>
-    <h1> Parking Project  </h1> <br>
+   <u> <h1> Parking Project  </h1> </u> <br>
     <h> September 4, 2019 </h>
-    <p> Selection of the project on Parking Iot scale Model  </p>
+   <b> <u> <p> Selection of the project on Parking Iot scale Model  </p> </u> </b>
   </head>
     <body>
   </body>
