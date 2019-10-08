@@ -12,7 +12,6 @@
    <b> <u> <p> Project Schedule  </p> </u> </b>
       <h2> September 10, 2019 </h2>
     <a href="https://github.com/NavkiranKaur/ParkingEaze/blob/master/documentation/proposal.xlsx">Click to view proposal</a>
-   <b> <u> <p> Project Schedule  </p> </u> </b>
    <b> <u> <p> Submission of Project Proposal  </p> </u> </b>
     <h2> September 3, 2019 </h2>
    <b> <u> <p> Selection of the project on Parking Iot scale Model  </p> 
