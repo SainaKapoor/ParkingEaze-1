@@ -1,7 +1,7 @@
 <html>
   <head>
     <u> <h1><font color="blue"> Parking Project : ParkingEaze </font></h1> </u> <br>
-    <h2> October 1 , 2019 </h2>
+    <h2> October 1 , 2019 </h2> <a href="https://github.com/NavkiranKaur/ParkingEaze/blob/master/documentation/Proof%20of%20purchase.pdf">proof of purchase</a>
    <b> <u> <p> Producs purchase proof is posted on blog </p> </u> </b>
     <h2> September 24, 2019 </h2>
    <b> <u> <p> Budget of the parts is prepared after selection of the required tools</p> </u> </b>
