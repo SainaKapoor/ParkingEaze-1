@@ -1,6 +1,9 @@
 <html>
   <head>
    <u> <h1> Parking Project  </h1> </u> <br>
+     <h2> September 18, 2019 </h2>
+   <b> <u> <p> Project Schedule  </p> </u> </b>
+    
       <h2> September 11, 2019 </h2>
    <b> <u> <p> Submission of Project Proposal  </p> </u> </b>
     <h2> September 4, 2019 </h2>
