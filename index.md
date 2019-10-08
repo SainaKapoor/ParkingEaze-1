@@ -1,6 +1,6 @@
 <html>
   <head>
-   <u> <h1> Parking Project  </h1> </u> <br>
+    <u> <h1><font color="blue"> Parking Project : ParkingEaze </font></h1> </u> <br>
     <h2> October 1 , 2019 </h2>
    <b> <u> <p> Producs purchase proof is posted on blog </p> </u> </b>
     <h2> September 24, 2019 </h2>
