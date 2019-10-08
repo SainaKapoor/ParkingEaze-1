@@ -7,7 +7,7 @@
     <h2> September 24, 2019 </h2>
     <a href="https://github.com/NavkiranKaur/ParkingEaze/blob/master/documentation/Budgetproject.xlsx">Click to view Budget</a>
    <b> <u> <p> Budget of the parts is prepared after selection of the required tools</p> </u> </b>
-    <p> Bioplar stepper motor <br> DRV8825 driver <br> Raspberry pie </p>
+    <p> Bioplar stepper motor <br> DRV8825 driver <br> Raspberry pie <br> Power supply Adaptor </p>
      <h2> September 17, 2019 </h2>
         <a href="https://github.com/NavkiranKaur/ParkingEaze/blob/master/documentation/ProjectSchedule.mpp">Click to view Schedule</a>
    <b> <u> <p> Project Schedule  </p> </u> </b>
