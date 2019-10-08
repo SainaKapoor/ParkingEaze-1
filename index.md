@@ -1,6 +1,10 @@
 <html>
   <head>
    <u> <h1> Parking Project  </h1> </u> <br>
+    
+    <h2> October 1 , 2019 </h2>
+   <b> <u> <p> Producs purchase proof is posted on blog </p> </u> </b>
+    
     <h2> September 24, 2019 </h2>
    <b> <u> <p> Budget of the parts is prepared after selection of the required tools</p> </u> </b>
      <h2> September 17, 2019 </h2>
