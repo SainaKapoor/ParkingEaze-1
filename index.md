@@ -10,6 +10,8 @@
   <img src ="https://raw.githubusercontent.com/NavkiranKaur/ParkingEaze/master/images/finalFritzingCeng317_pcb.png">  <br>
     <h3>Breadboard </h3>
       <img src="https://raw.githubusercontent.com/NavkiranKaur/ParkingEaze/master/images/breadboard.png"> <br>
+     <h2> October 8 , 2019 </h2> 
+    <p> Brought all the purchased parts in the class and showed the acquisations</p>
     <h2> October 1 , 2019 </h2> 
     <a href="https://github.com/NavkiranKaur/ParkingEaze/blob/master/documentation/Proof%20of%20purchase.pdf">proof of purchase</a>
    <b> <u> <p> Products purchase proof is posted on blog </p> </u> </b>
