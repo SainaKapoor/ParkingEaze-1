@@ -4,9 +4,10 @@
     <h2> October 16 , 2019 </h2> 
     <p> The schematic ,breadboard and pcb fileas are creadted i fritzing and thsese are shown below</p>
     <br>
+    <h3> Schematic </h3>
     <img src ="https://raw.githubusercontent.com/NavkiranKaur/ParkingEaze/master/images/schematic.png"> <br> 
-      
-    
+  <h3>Pcb design </h3>
+  <img src ="https://raw.githubusercontent.com/NavkiranKaur/ParkingEaze/master/images/finalFritzingCeng317_pcb.png">  <br>
     <h2> October 1 , 2019 </h2> 
     <a href="https://github.com/NavkiranKaur/ParkingEaze/blob/master/documentation/Proof%20of%20purchase.pdf">proof of purchase</a>
    <b> <u> <p> Products purchase proof is posted on blog </p> </u> </b>
