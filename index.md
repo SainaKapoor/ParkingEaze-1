@@ -5,7 +5,8 @@
     <p> The breadboard is made so far with the stepper motor,jumoer wires,drv8825 driver and the raspberry pie </p>
     <br>
     <h3>Breadboard  </h3><br>
-    <img src =https://raw.githubusercontent.com/NavkiranKaur/ParkingEaze/master/images/IMG-0334.jpg> <br> 
+    <img src =https://raw.githubusercontent.com/NavkiranKaur/ParkingEaze/master/images/IMG-0334.jpg> 
+    <br> 
     <h3>
       The code </h3>
      <img src =https://raw.githubusercontent.com/NavkiranKaur/ParkingEaze/master/images/IMG-0337.jpg> <br> 
