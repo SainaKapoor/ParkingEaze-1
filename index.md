@@ -6,9 +6,11 @@
     <br>
     <h3>Breadboard  </h3>
     <img src =https://raw.githubusercontent.com/NavkiranKaur/ParkingEaze/master/images/IMG-0334.jpg> <br> 
+    <h3>
+      The code </h3>
      <img src =https://raw.githubusercontent.com/NavkiranKaur/ParkingEaze/master/images/IMG-0337.jpg> <br> 
      <img src =https://raw.githubusercontent.com/NavkiranKaur/ParkingEaze/master/images/IMG-0338.jpg> <br> 
-     <img src =https://raw.githubusercontent.com/NavkiranKaur/ParkingEaze/master/images/IMG-040.jpg> <br> 
+     <img src =https://raw.githubusercontent.com/NavkiranKaur/ParkingEaze/master/images/IMG-0340.jpg> <br>
     <h2> October 16 , 2019 </h2> 
     <p> The schematic ,breadboard and pcb fileas are created in fritzing and these are shown below</p>
     <br>
