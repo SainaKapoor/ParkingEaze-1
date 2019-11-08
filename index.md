@@ -8,14 +8,15 @@
        <h2> October 29 , 2019 </h2> 
     <p> The breadboard is made so far with the stepper motor,jumoer wires,drv8825 driver and the raspberry pie </p>
     <br>
-    <h3>Breadboard includes the connections of jumper </h3><br>
+    <h3>Breadboard includes the connections of jumper </h3>
     <img src ="https://raw.githubusercontent.com/NavkiranKaur/ParkingEaze/master/images/IMG-0334.jpg"> 
     <br> 
     <h3>
-      The code </h3>
+      The codes and the screen capture images of the outputs </h3>
      <img src ="https://raw.githubusercontent.com/NavkiranKaur/ParkingEaze/master/images/IMG-0337.jpg"> <br> 
      <img src ="https://raw.githubusercontent.com/NavkiranKaur/ParkingEaze/master/images/IMG-0338.jpg"> <br> 
      <img src ="https://raw.githubusercontent.com/NavkiranKaur/ParkingEaze/master/images/IMG-0340.jpg"> <br>
+  <img src=  "https://raw.githubusercontent.com/NavkiranKaur/ParkingEaze/master/images/IMG-0538.jpg" > <br>
     <h2> October 16 , 2019 </h2> 
     <p> The schematic ,breadboard and pcb fileas are created in fritzing and these are shown below</p>
     <p> Also, the fritzing files are sent as gerber files to the prototype lab for the pcb <p>
