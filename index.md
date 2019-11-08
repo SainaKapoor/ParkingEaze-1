@@ -3,6 +3,7 @@
        <u> <h1> Project Blog: Parking IOT system scale model</h1> </u> <br> 
        <u> <h2> Project status and update  </h2> </u> 
     <p> I have been working mostly around the breadboard connections and the code works significantly.The header sockets are taken afer the budget is made.No parts other than the bugdet of the project are ordered.However, I ordered the hdmi to vga cable and bought a  mouse keyboard combo in order for running code on raspberry pi<p>
+    <img src="https://raw.githubusercontent.com/NavkiranKaur/ParkingEaze/master/images/pcbSolder1.jpg">
       <h2> Nov 7 , 2019 </h2> 
     <p> The demonstration of the soldered pcb is presented in the class as the multimeter used to measure resistance by connection to power and ground of the raspberry pi<p>
        <h2> October 29 , 2019 </h2> 
