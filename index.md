@@ -1,6 +1,6 @@
 <html>
   <head>
-     <body style="background-color:powderblue;"> 
+     <body style="background-color:cyan;"> 
     <u> <h1><font color="blue"> Parking Project Blog</font></h1> </u> <br>
        <u> <h2> <font color="blue"> Project status and update </font> </h2> </u>
     <p> I have been working mostly around the breadboard connections and the code works significantly.The header sockets are taken afer the budget is made.No parts other than the bugdet of the project are ordered.However, I ordered the hdmi to vga cable and bought a  mouse keyboard combo in order for running code on raspberry pie<p>
