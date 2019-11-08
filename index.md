@@ -1,10 +1,14 @@
 <html>
   <head>
     <u> <h1><font color="blue"> Parking Project : ParkingEaze </font></h1> </u> <br>
+    <h2> <font color="blue"> Project status and update </h2>
+    <p> I have been working mostly around the breadboard connections and the code works significantly.The header sockets are taken afer the budget is made.No parts other than the bugdet of the project are ordered.However, I ordered the hdmi to vga cable and bought a  mouse keyboard combo in order for running code on raspberry pie<p>
+      <h2> Nov 7 , 2019 </h2> 
+    <p> The demonstration of the soldered pcb is presented in the class as the multimeter used to measure resistance by connection to power and ground of the raspberry pi<p>
        <h2> October 29 , 2019 </h2> 
     <p> The breadboard is made so far with the stepper motor,jumoer wires,drv8825 driver and the raspberry pie </p>
     <br>
-    <h3>Breadboard  </h3><br>
+    <h3>Breadboard includes the connections of jumper </h3><br>
     <img src ="https://raw.githubusercontent.com/NavkiranKaur/ParkingEaze/master/images/IMG-0334.jpg"> 
     <br> 
     <h3>
@@ -14,6 +18,7 @@
      <img src ="https://raw.githubusercontent.com/NavkiranKaur/ParkingEaze/master/images/IMG-0340.jpg"> <br>
     <h2> October 16 , 2019 </h2> 
     <p> The schematic ,breadboard and pcb fileas are created in fritzing and these are shown below</p>
+    <p> Also, the fritzing files are sent as gerber files to the prototype lab for the pcb <p>
     <br>
     <h3> Schematic </h3>
     <img src ="https://raw.githubusercontent.com/NavkiranKaur/ParkingEaze/master/images/schematic.png"> <br> 
@@ -29,7 +34,7 @@
     <h2> September 24, 2019 </h2>
     <a href="https://github.com/NavkiranKaur/ParkingEaze/blob/master/documentation/Budgetproject.xlsx">Click to view Budget</a>
    <b> <u> <p> Budget of the parts is prepared after selection of the required tools</p> </u> </b>
-    <p> Bioplar stepper motor <br> DRV8825 driver <br> Raspberry pie <br> Power supply Adaptor </p>
+    <p> Bioplar stepper motor <br> DRV8825 driver <br> Raspberry pi <br> Power supply Adaptor <br> 100 microfarad capacitor ,jumoer wires from the tools kit </p> 
      <h2> September 17, 2019 </h2>
         <a href="https://github.com/NavkiranKaur/ParkingEaze/blob/master/documentation/ProjectSchedule.mpp">Click to view Schedule</a>
    <b> <u> <p> Project Schedule  </p> </u> </b>
