@@ -9,8 +9,12 @@
      <br> the link to the site that is used to work out on my project can be found here
       <a href="https://www.rototron.info/raspberry-pi-stepper-motor-tutorial/">Click to view </a>
       <br> 
-      the pictures can be found here and also
-      the movement of motor is also recorded.
+      the pictures taken can be found here
+         <img src="https://raw.githubusercontent.com/NavkiranKaur/ParkingEaze/master/images/bread3.jpg"  height="600">
+         <img src="https://raw.githubusercontent.com/NavkiranKaur/ParkingEaze/master/images/bread2.jpg"  height="600">
+       <img src="https://raw.githubusercontent.com/NavkiranKaur/ParkingEaze/master/images/codeRun.jpg"  height="600">
+       <img src="https://raw.githubusercontent.com/NavkiranKaur/ParkingEaze/master/images/voltage.jpg"  height="600">
+     <br> the movement of motor is also recorded.
       <br>video can be viewed by after clicking and going to this link below
       <br> https://github.com/NavkiranKaur/ParkingEaze/blob/master/images/IMG-0682.mov
       <h2> Nov 7 , 2019 </h2> 
