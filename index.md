@@ -6,7 +6,7 @@
     <h2>Nov 12 ,2019 </h2>
     <p> In the prototype lab , i made the breadboard connections and raspberry pi broadcom and with the instructions and under guidance and help of professor Kelly grey , i made my motor works finally as with respect to the current and voltage specifications are to be considered.I used the dc power supply and the code works fine with motor movement.
       <br> yet,I am thinking of making the pcb design again or continuing with the same soldered pcb.
-      the link to the site that is used to work out on my project can be found here
+     <br> the link to the site that is used to work out on my project can be found here
       <a href="https://www.rototron.info/raspberry-pi-stepper-motor-tutorial/">Click to view </a>
       <br> 
       the pictures can be found here and also the movement of motor is also recorded.
