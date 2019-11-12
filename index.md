@@ -2,7 +2,7 @@
   <head>
        <u> <h1> Project Blog: Parking IOT system scale model</h1> </u> <br> 
        <u> <h2> Project status and update  </h2> </u> 
-    <p> I have been working mostly around the breadboard connections and the code works significantly.The header sockets are taken after the budget is made.No parts other than the bugdet of the project are ordered.However, I ordered the hdmi to vga cable and bought a  mouse keyboard combo in order for running code on raspberry pi</p>
+    <p> I had been working mostly around the breadboard connections and my bipolar stepper motor is rotating and working now alonwith the python code works significantly.Now,I will be heading towards pcb and powering up and making sure to work round the design too .The header sockets are taken after the budget is made.No parts other than the bugdet of the project are ordered.However, I ordered the hdmi to vga cable and bought a  mouse keyboard combo in order for running code on raspberry pi</p>
     <h2>Nov 12 ,2019 </h2>
     <p> In the prototype lab , i made the breadboard connections and raspberry pi broadcom and with the instructions and under guidance and help of professor Kelly grey , i made my motor works finally as with respect to the current and voltage specifications are to be considered.I used the dc power supply and the code works fine with motor movement.
       <br> yet,I am thinking of making the pcb design again or continuing with the same soldered pcb.
