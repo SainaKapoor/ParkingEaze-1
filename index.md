@@ -16,7 +16,7 @@
        <img src="https://raw.githubusercontent.com/NavkiranKaur/ParkingEaze/master/images/voltage.jpg"  height="600">
      <br> the movement of motor is also recorded.
       <br>video can be viewed by after clicking and going to this link below
-      <br> https://github.com/NavkiranKaur/ParkingEaze/blob/master/images/IMG-0682.mov
+      <br>  https://github.com/NavkiranKaur/ParkingEaze/blob/master/images/IMG-0682.mov
       <h2> Nov 7 , 2019 </h2> 
     <p> The demonstration of the soldered pcb is presented in the class as the multimeter used to measure resistance by connection to power and ground of the raspberry pi and the output displays the overload that signifies the connection is open<p>
         <img src="https://raw.githubusercontent.com/NavkiranKaur/ParkingEaze/master/images/pcbSolder1.jpg"  height="600">
