@@ -2,14 +2,17 @@
   <head>
        <u> <h1> Project Blog: Parking IOT system scale model</h1> </u> <br> 
        <u> <h2> Project status and update  </h2> </u> 
-    <p> I have been working mostly around the breadboard connections and the code works significantly.The header sockets are taken afer the budget is made.No parts other than the bugdet of the project are ordered.However, I ordered the hdmi to vga cable and bought a  mouse keyboard combo in order for running code on raspberry pi</p>
+    <p> I have been working mostly around the breadboard connections and the code works significantly.The header sockets are taken after the budget is made.No parts other than the bugdet of the project are ordered.However, I ordered the hdmi to vga cable and bought a  mouse keyboard combo in order for running code on raspberry pi</p>
     <h2>Nov 12 ,2019 </h2>
     <p> In the prototype lab , i made the breadboard connections and raspberry pi broadcom and with the instructions and under guidance and help of professor Kelly grey , i made my motor works finally as with respect to the current and voltage specifications are to be considered.I used the dc power supply and the code works fine with motor movement.
       <br> yet,I am thinking of making the pcb design again or continuing with the same soldered pcb.
      <br> the link to the site that is used to work out on my project can be found here
       <a href="https://www.rototron.info/raspberry-pi-stepper-motor-tutorial/">Click to view </a>
       <br> 
-      the pictures can be found here and also the movement of motor is also recorded.
+      the pictures can be found here and also
+      the movement of motor is also recorded.
+      <br>video can be viewed by after clicking and going to this link below
+      <br> https://github.com/NavkiranKaur/ParkingEaze/blob/master/images/IMG-0682.mov
       <h2> Nov 7 , 2019 </h2> 
     <p> The demonstration of the soldered pcb is presented in the class as the multimeter used to measure resistance by connection to power and ground of the raspberry pi and the output displays the overload that signifies the connection is open<p>
         <img src="https://raw.githubusercontent.com/NavkiranKaur/ParkingEaze/master/images/pcbSolder1.jpg"  height="600">
