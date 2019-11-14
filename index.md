@@ -4,7 +4,9 @@
        <u> <h2> Project status and update  </h2> </u> 
     <p> I had been working mostly around the breadboard connections and my bipolar stepper motor is rotating and working now alonwith the python code works significantly.Then,I moved forward towards the pcb and powering up and the bipolar stepper motor works perfectly.I got my pcb redesigned with some changes in the fritzing.The header sockets are taken after the budget is made.No parts other than the bugdet of the project are ordered.However, I ordered the hdmi to vga cable and bought a  mouse keyboard combo in order for running code on raspberry pi</p>
       <h2>Nov 14 ,2019 </h2>
-    <p>The pcb is connected to the stepper motor,drv8825and the pi and the power supply from dc adaptor of 12 v is given and the motor is rotating ,forward ,reverse directions 
+    <p>The pcb is connected to the stepper motor,drv8825and the pi and the power supply from dc adaptor of 12 v is given and the motor is rotating ,forward ,reverse directions.The working pcb is demonstrated.
+       <img src="https://raw.githubusercontent.com/NavkiranKaur/ParkingEaze/master/images/blogm.jpg" >
+      <img src="https://raw.githubusercontent.com/NavkiranKaur/ParkingEaze/master/images/overload.jpg" >
       <img src="https://raw.githubusercontent.com/NavkiranKaur/ParkingEaze/master/images/motorworkpcb.jpg" >
       <br> the video of motor rotation can be seen through here
         <a href=" https://github.com/NavkiranKaur/ParkingEaze/blob/master/images/IMG-0766.mov">Click to view </a>
