@@ -6,6 +6,8 @@
       <h2>Nov 14 ,2019 </h2>
     <p>The pcb is connected to the stepper motor,drv8825and the pi and the power supply from dac adaptor of 12 v is given and the motor is rotating ,forward ,reverse directions
       <img src="https://raw.githubusercontent.com/NavkiranKaur/ParkingEaze/master/images/motorworkpcb.jpg" >
+      <br> the video of motor rotation can be seen through here
+      <br>
      <h2>Nov 13 ,2019 </h2>
     I acquired my new pcb and started working on it.and updated new fritzing images are follows:
     <img src="https://raw.githubusercontent.com/NavkiranKaur/ParkingEaze/master/images/breadboard_final.png"  >
