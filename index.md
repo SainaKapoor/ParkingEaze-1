@@ -5,9 +5,9 @@
     <p> I had been working mostly around the breadboard connections and my bipolar stepper motor is rotating and working now alonwith the python code works significantly.Then,I moved forward towards the pcb and powering up and the bipolar stepper motor works perfectly.I got my pcb redesigned with some changes in the fritzing.The header sockets are taken after the budget is made.No parts other than the bugdet of the project are ordered.However, I ordered the hdmi to vga cable and bought a  mouse keyboard combo in order for running code on raspberry pi</p>
      <h2>Nov 13 ,2019 </h2>
     I acquired my new pcb and started working on it.and updated new fritzing images are follows:
-    <img src="  https://raw.githubusercontent.com/NavkiranKaur/ParkingEaze/master/images/breadboard_final.png"  >
-    <img src="  https://raw.githubusercontent.com/NavkiranKaur/ParkingEaze/master/images/pcb_final.png">
-   <img src="  https://raw.githubusercontent.com/NavkiranKaur/ParkingEaze/master/images/schematic_final.png" >
+    <img src="https://raw.githubusercontent.com/NavkiranKaur/ParkingEaze/master/images/breadboard_final.png"  >
+    <img src="https://raw.githubusercontent.com/NavkiranKaur/ParkingEaze/master/images/pcb_final.png">
+   <img src="https://raw.githubusercontent.com/NavkiranKaur/ParkingEaze/master/images/schematic_final.png" >
     <h2>Nov 12 ,2019 </h2>
     <p> In the prototype lab , i made the breadboard connections and raspberry pi broadcom and with the instructions and under guidance and help of professor Kelly grey , i made my motor works finally as with respect to the current and voltage specifications are to be considered.I used the dc power supply and the code works fine with motor movement.
       <br> I decided to design the pcb again.
