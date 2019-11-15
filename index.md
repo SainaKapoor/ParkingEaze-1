@@ -6,10 +6,10 @@
       <h2>Nov 14 ,2019 </h2>
     <p>The pcb is connected to the stepper motor,drv8825and the pi and the power supply from dc adaptor of 12 v is given and the motor is rotating ,forward ,reverse directions.The working pcb is demonstrated.
       <br>
-       <img src="https://raw.githubusercontent.com/NavkiranKaur/ParkingEaze/master/images/blogm.jpg" >
-       <img src="https://raw.githubusercontent.com/NavkiranKaur/ParkingEaze/master/images/overload.jpg" >
-      <img src="https://raw.githubusercontent.com/NavkiranKaur/ParkingEaze/master/images/motorworkpcb.jpg" >
-       <img src="https://raw.githubusercontent.com/NavkiranKaur/ParkingEaze/master/images/newpcb.jpg" >
+       <img src="https://raw.githubusercontent.com/NavkiranKaur/ParkingEaze/master/images/blogm.jpg" height="600" >
+       <img src="https://raw.githubusercontent.com/NavkiranKaur/ParkingEaze/master/images/overload.jpg" height="600">
+      <img src="https://raw.githubusercontent.com/NavkiranKaur/ParkingEaze/master/images/motorworkpcb.jpg" height="600">
+       <img src="https://raw.githubusercontent.com/NavkiranKaur/ParkingEaze/master/images/newpcb.jpg" height="600" >
       <br> the video of motor rotation can be seen through here
         <a href=" https://github.com/NavkiranKaur/ParkingEaze/blob/master/images/IMG-0766.mov">Click to view </a>
      <h2>Nov 13 ,2019 </h2>
