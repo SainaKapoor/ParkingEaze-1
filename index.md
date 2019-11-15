@@ -9,6 +9,7 @@
        <img src="https://raw.githubusercontent.com/NavkiranKaur/ParkingEaze/master/images/blogm.jpg" >
        <img src="https://raw.githubusercontent.com/NavkiranKaur/ParkingEaze/master/images/overload.jpg" >
       <img src="https://raw.githubusercontent.com/NavkiranKaur/ParkingEaze/master/images/motorworkpcb.jpg" >
+       <img src="https://raw.githubusercontent.com/NavkiranKaur/ParkingEaze/master/images/newwpcb.jpg" >
       <br> the video of motor rotation can be seen through here
         <a href=" https://github.com/NavkiranKaur/ParkingEaze/blob/master/images/IMG-0766.mov">Click to view </a>
      <h2>Nov 13 ,2019 </h2>
@@ -17,7 +18,7 @@
     <img src="https://raw.githubusercontent.com/NavkiranKaur/ParkingEaze/master/images/pcb_final.png">
    <img src="https://raw.githubusercontent.com/NavkiranKaur/ParkingEaze/master/images/schematic_final.png" >
     <h2>Nov 12 ,2019 </h2>
-    <p> In the prototype lab , i made the breadboard connections and raspberry pi broadcom and with the instructions and under guidance and help of professor Kelly grey , i made my motor works finally as with respect to the current and voltage specifications are to be considered.I used the dc power supply and the code works fine with motor movement.
+    <p> In the prototype lab , i made the breadboard connections and raspberry pi broadcom and with the instructions and under guidance and help of professor Kelly gray , i made my motor works finally as with respect to the current and voltage specifications are to be considered.I used the dc power supply and the code works fine with motor movement.
       <br> I decided to design the pcb again.
      <br> the link to the site that is used to work out on my project can be found here
       <a href="https://www.rototron.info/raspberry-pi-stepper-motor-tutorial/">Click to view </a>
