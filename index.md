@@ -9,7 +9,7 @@
        <img src="https://raw.githubusercontent.com/NavkiranKaur/ParkingEaze/master/images/blogm.jpg" >
        <img src="https://raw.githubusercontent.com/NavkiranKaur/ParkingEaze/master/images/overload.jpg" >
       <img src="https://raw.githubusercontent.com/NavkiranKaur/ParkingEaze/master/images/motorworkpcb.jpg" >
-       <img src="https://raw.githubusercontent.com/NavkiranKaur/ParkingEaze/master/images/newwpcb.jpg" >
+       <img src="https://raw.githubusercontent.com/NavkiranKaur/ParkingEaze/master/images/newpcb.jpg" >
       <br> the video of motor rotation can be seen through here
         <a href=" https://github.com/NavkiranKaur/ParkingEaze/blob/master/images/IMG-0766.mov">Click to view </a>
      <h2>Nov 13 ,2019 </h2>
