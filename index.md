@@ -1,6 +1,7 @@
 <html>
   <head>
        <u> <h1> Project Blog: Parking IOT system scale model</h1> </u> <br> 
+    <h2>Nov 21 ,2019 </h2>
     <u> <h2> Progess status update </h2> </u> 
     I have been working sround my case for the enclosure as it was not fine so i am trying to fix the dimensions as it will be longer than the pi dimensions because my pcb expands outside from the pi.For the motor,as my professor suggested to go for the 3D printing and provided me the link which can be found by 
     <a href="https://www.thingiverse.com/thing:3753538/files">Clicking here </a>
