@@ -2,7 +2,7 @@
   <head>
        <u> <h1> Project Blog: Parking IOT system scale model</h1> </u> <br> 
     <h2>Nov 21 ,2019 </h2>
-    <u> <h2> Progess status update </h2> </u> 
+    <u> <h2> Progess status update and more information.</h2> </u> 
     I have been working sround my case for the enclosure as it was not fine so i am trying to fix the dimensions as it will be longer than the pi dimensions because my pcb expands outside from the pi.For the motor,as my professor suggested to go for the 3D printing and provided me the link which can be found by 
     <a href="https://www.thingiverse.com/thing:3753538/files">Clicking here </a>
     I am moving forward with this.Although it will take a week as I discussed with the prototype lab professor but as this course signifies to gain the experience both with laser cutting and 3D printing.For my rest of the case, i am going with the laser cutting and figuring out my enclosure.
